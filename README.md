@@ -1,4 +1,5 @@
 <!-- Profile Banner -->
+<br /><br />
 <p align="center">
   <a href="https://zollahrp.my.id/"><img width="80%" alt="Hello, I'm Zolla!" src="./img/header.png" /></a>
 </p>
