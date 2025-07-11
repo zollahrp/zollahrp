@@ -1,66 +1,60 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <a href="https://zollahrp.my.id/"><img width="80%" alt="Hello, I'm Zolla!" src="./img/header.png" /></a>
+</p>
+<br />
 
-<!--
-**zollahrp/zollahrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zolla!;Front-End+Dev+%7C+Creative+Thinker;Always+learning+cool+stuff&font=Fira+Code&center=true&width=440&height=45&color=FD853A&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Sosmed Icons -->
+<p align="center">
+  <a href="https://www.youtube.com/@Zero-Starr"><img width="32px" src="https://i.imgur.com/qiXu7b2.png" title="YouTube"/></a>
+  &#8287;&#8287;
+  <a href="https://www.linkedin.com/in/zolla/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" title="LinkedIn"/></a>
+  &#8287;&#8287;
+  <a href="https://twitter.com/zollahrp"><img width="32px" src="https://i.imgur.com/AixJgnm.png" title="Twitter"/></a>
+  &#8287;&#8287;
+  <a href="https://instagram.com/zollahrp"><img width="32px" src="https://i.imgur.com/OViZO8J.png" title="Instagram"/></a>
+  &#8287;&#8287;
+  <a href="https://dev.to/zollahrp"><img width="32px" src="https://i.imgur.com/mVm29vK.png" title="DEV.to"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Section -->
+<h3 align="center">🚀 About Me</h3>
 
-## 🧠 Tech Stack & Tools
+<p align="center">
+Self-taught front-end developer from Indonesia 🇮🇩.
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
-![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000?style=flat-square&logo=visual-studio-code)
+<!-- Skills -->
+<h3 align="center">🧠 Tech Stack</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-## 🔥 GitHub Streak
+<!-- GitHub Stats -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zollahrp&show_icons=true&theme=default&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zollahrp&layout=compact&theme=default&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zollahrp&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Stats
-
-![Zolla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zollahrp&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zollahrp&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Activity Graph
-
-[![Zolla's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zollahrp&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🛠 Currently Working On
-- 🚀 Personal Portfolio v2 with React & Tailwind
-- 🌤️ Weather App with API & dynamic UI
-- 🧼 Eco-product startup called **Gliso** (Detergen ramah lingkungan)
-- 🎯 Improving UI/UX game and dark mode obsession
-
----
-
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin)](https://linkedin.com/in/zollahrp)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram)](https://instagram.com/zollahrp)
-[![X](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=x)]
-
----
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rivalfitrah/rivalfitrah/output/github-contribution-grid-snake.svg" />
+</div>
