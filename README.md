@@ -15,26 +15,25 @@
 <!-- Sosmed Icons -->
 <p align="center">
   <a href="https://github.com/zollahrp" target="_blank">
-  <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/github--v1.png" title="GitHub"/>
+    <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/github--v1.png" title="GitHub"/>
   </a>
   &#8287;&#8287;
   <a href="https://www.linkedin.com/in/zolla/" target="_blank">
     <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/linkedin.png" title="LinkedIn"/>
   </a>
   &#8287;&#8287;
-  <a href="https://twitter.com/zollahrp" target="_blank">
-    <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/twitterx--v2.png" title="Twitter"/>
-  </a>
-  &#8287;&#8287;
   <a href="https://instagram.com/zollahrp" target="_blank">
     <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/instagram-new.png" title="Instagram"/>
   </a>
   &#8287;&#8287;
-  <a href="https://zolla.web.id" target="_blank">
+  <a href="https://www.kompasiana.com/zollahrp" target="_blank">
+    <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/blog.png" title="Kompasiana" />
+  </a>
+  &#8287;&#8287;
+  <a href="https://zollahrp.my.id/" target="_blank">
     <img width="32px" src="https://img.icons8.com/ios-filled/50/FD853A/domain.png" title="Website"/>
   </a>
 </p>
-
 
 <!-- About Section -->
 I'm a self-taught passionate FrontEnd developer from Indonesia 🇮🇩.
