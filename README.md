@@ -52,7 +52,7 @@ I'm a self-taught passionate FrontEnd developer from Indonesia 🇮🇩.
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="20" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-
+<br />
 <!-- GitHub Stats -->
 <table align="center">
   <tr>
@@ -66,16 +66,10 @@ I'm a self-taught passionate FrontEnd developer from Indonesia 🇮🇩.
 </table>
 
 <!-- <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div> -->
-<!-- Contribution Pacman -->
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=zollahrp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
+<br />
+<!-- Contribution Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zollahrp/zollahrp/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zollahrp/zollahrp/output/pacman-contribution-graph.svg">
